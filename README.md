@@ -1,6 +1,6 @@
-# ICPCC-Solutions
+# IPCC-Solutions
 
-Code for ICPCC National coding competition
+Code for IPCC National coding competition
 
 Contains incomplete code from various problems. 
 
